@@ -1,0 +1,2503 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bookstore>
+  <book category="history">
+    <title lang="it">Whispers of the Past #1</title>
+    <author>Jane Doe</author>
+    <price>9.15</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">Dreams of Tomorrow #2</title>
+    <author>John Smith</author>
+    <price>36.56</price>
+  </book>
+  <book category="science">
+    <title lang="it">A Love Beyond Time #3</title>
+    <author>John Smith</author>
+    <price>18.00</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Shadows of the Mind #4</title>
+    <author>Alice Johnson</author>
+    <price>47.87</price>
+  </book>
+  <book category="science">
+    <title lang="it">A Love Beyond Time #5</title>
+    <author>Mark Brown</author>
+    <price>44.10</price>
+  </book>
+  <book category="history">
+    <title lang="es">A Love Beyond Time #6</title>
+    <author>Jane Doe</author>
+    <price>25.36</price>
+  </book>
+  <book category="science">
+    <title lang="de">Dreams of Tomorrow #7</title>
+    <author>Alice Johnson</author>
+    <price>31.26</price>
+  </book>
+  <book category="history">
+    <title lang="it">The Silent Forest #8</title>
+    <author>Mark Brown</author>
+    <price>24.42</price>
+  </book>
+  <book category="history">
+    <title lang="en">Dreams of Tomorrow #9</title>
+    <author>Emily Davis</author>
+    <price>6.02</price>
+  </book>
+  <book category="history">
+    <title lang="en">A Love Beyond Time #10</title>
+    <author>Alice Johnson</author>
+    <price>21.39</price>
+  </book>
+  <book category="history">
+    <title lang="de">Whispers of the Past #11</title>
+    <author>Jane Doe</author>
+    <price>12.64</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">A Love Beyond Time #12</title>
+    <author>Emily Davis</author>
+    <price>9.16</price>
+  </book>
+  <book category="history">
+    <title lang="it">Shadows of the Mind #13</title>
+    <author>Alice Johnson</author>
+    <price>39.12</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">A Love Beyond Time #14</title>
+    <author>John Smith</author>
+    <price>6.18</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">A Love Beyond Time #15</title>
+    <author>John Smith</author>
+    <price>23.38</price>
+  </book>
+  <book category="science">
+    <title lang="en">The Silent Forest #16</title>
+    <author>Mark Brown</author>
+    <price>47.78</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">A Love Beyond Time #17</title>
+    <author>Mark Brown</author>
+    <price>46.42</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Shadows of the Mind #18</title>
+    <author>Alice Johnson</author>
+    <price>21.55</price>
+  </book>
+  <book category="science">
+    <title lang="en">A Love Beyond Time #19</title>
+    <author>Emily Davis</author>
+    <price>8.22</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Whispers of the Past #20</title>
+    <author>Emily Davis</author>
+    <price>28.69</price>
+  </book>
+  <book category="history">
+    <title lang="es">The Silent Forest #21</title>
+    <author>Mark Brown</author>
+    <price>35.91</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">The Silent Forest #22</title>
+    <author>Mark Brown</author>
+    <price>9.36</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">Whispers of the Past #23</title>
+    <author>Jane Doe</author>
+    <price>14.85</price>
+  </book>
+  <book category="history">
+    <title lang="de">A Love Beyond Time #24</title>
+    <author>Emily Davis</author>
+    <price>43.54</price>
+  </book>
+  <book category="history">
+    <title lang="fr">The Silent Forest #25</title>
+    <author>Mark Brown</author>
+    <price>45.61</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">Whispers of the Past #26</title>
+    <author>Jane Doe</author>
+    <price>5.18</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">Whispers of the Past #27</title>
+    <author>John Smith</author>
+    <price>33.89</price>
+  </book>
+  <book category="history">
+    <title lang="en">Dreams of Tomorrow #28</title>
+    <author>Jane Doe</author>
+    <price>48.73</price>
+  </book>
+  <book category="history">
+    <title lang="de">Dreams of Tomorrow #29</title>
+    <author>Emily Davis</author>
+    <price>18.13</price>
+  </book>
+  <book category="science">
+    <title lang="es">Dreams of Tomorrow #30</title>
+    <author>Emily Davis</author>
+    <price>31.75</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">Whispers of the Past #31</title>
+    <author>Alice Johnson</author>
+    <price>15.38</price>
+  </book>
+  <book category="fiction">
+    <title lang="it">Shadows of the Mind #32</title>
+    <author>Emily Davis</author>
+    <price>40.23</price>
+  </book>
+  <book category="history">
+    <title lang="de">The Silent Forest #33</title>
+    <author>Mark Brown</author>
+    <price>38.05</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Whispers of the Past #34</title>
+    <author>Alice Johnson</author>
+    <price>47.36</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">A Love Beyond Time #35</title>
+    <author>Jane Doe</author>
+    <price>49.76</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">Shadows of the Mind #36</title>
+    <author>Alice Johnson</author>
+    <price>8.98</price>
+  </book>
+  <book category="history">
+    <title lang="de">Dreams of Tomorrow #37</title>
+    <author>Alice Johnson</author>
+    <price>45.95</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">The Silent Forest #38</title>
+    <author>Alice Johnson</author>
+    <price>44.81</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">The Silent Forest #39</title>
+    <author>Mark Brown</author>
+    <price>14.24</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">A Love Beyond Time #40</title>
+    <author>Alice Johnson</author>
+    <price>23.29</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Whispers of the Past #41</title>
+    <author>Jane Doe</author>
+    <price>39.34</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">Shadows of the Mind #42</title>
+    <author>John Smith</author>
+    <price>42.83</price>
+  </book>
+  <book category="science">
+    <title lang="it">Dreams of Tomorrow #43</title>
+    <author>Emily Davis</author>
+    <price>31.19</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">The Silent Forest #44</title>
+    <author>Alice Johnson</author>
+    <price>29.57</price>
+  </book>
+  <book category="history">
+    <title lang="fr">Dreams of Tomorrow #45</title>
+    <author>Alice Johnson</author>
+    <price>18.55</price>
+  </book>
+  <book category="fiction">
+    <title lang="it">Whispers of the Past #46</title>
+    <author>John Smith</author>
+    <price>16.62</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Dreams of Tomorrow #47</title>
+    <author>Mark Brown</author>
+    <price>27.88</price>
+  </book>
+  <book category="history">
+    <title lang="fr">The Silent Forest #48</title>
+    <author>Mark Brown</author>
+    <price>5.65</price>
+  </book>
+  <book category="fiction">
+    <title lang="it">The Silent Forest #49</title>
+    <author>Emily Davis</author>
+    <price>21.73</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Whispers of the Past #50</title>
+    <author>John Smith</author>
+    <price>28.22</price>
+  </book>
+  <book category="science">
+    <title lang="it">Dreams of Tomorrow #51</title>
+    <author>John Smith</author>
+    <price>16.76</price>
+  </book>
+  <book category="science">
+    <title lang="en">Shadows of the Mind #52</title>
+    <author>John Smith</author>
+    <price>41.49</price>
+  </book>
+  <book category="science">
+    <title lang="fr">Whispers of the Past #53</title>
+    <author>Mark Brown</author>
+    <price>37.15</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">A Love Beyond Time #54</title>
+    <author>John Smith</author>
+    <price>14.04</price>
+  </book>
+  <book category="history">
+    <title lang="en">Whispers of the Past #55</title>
+    <author>Emily Davis</author>
+    <price>49.10</price>
+  </book>
+  <book category="science">
+    <title lang="es">Whispers of the Past #56</title>
+    <author>John Smith</author>
+    <price>48.15</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">A Love Beyond Time #57</title>
+    <author>Mark Brown</author>
+    <price>38.85</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Shadows of the Mind #58</title>
+    <author>Emily Davis</author>
+    <price>40.46</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">The Silent Forest #59</title>
+    <author>Mark Brown</author>
+    <price>26.36</price>
+  </book>
+  <book category="history">
+    <title lang="de">Dreams of Tomorrow #60</title>
+    <author>Emily Davis</author>
+    <price>38.79</price>
+  </book>
+  <book category="history">
+    <title lang="de">Whispers of the Past #61</title>
+    <author>Emily Davis</author>
+    <price>6.71</price>
+  </book>
+  <book category="history">
+    <title lang="it">The Silent Forest #62</title>
+    <author>Alice Johnson</author>
+    <price>6.42</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">The Silent Forest #63</title>
+    <author>Mark Brown</author>
+    <price>18.12</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Shadows of the Mind #64</title>
+    <author>John Smith</author>
+    <price>15.40</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="de">Whispers of the Past #65</title>
+    <author>Emily Davis</author>
+    <price>23.51</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Dreams of Tomorrow #66</title>
+    <author>Alice Johnson</author>
+    <price>38.82</price>
+  </book>
+  <book category="science">
+    <title lang="es">Whispers of the Past #67</title>
+    <author>Emily Davis</author>
+    <price>46.71</price>
+  </book>
+  <book category="history">
+    <title lang="en">A Love Beyond Time #68</title>
+    <author>Alice Johnson</author>
+    <price>39.73</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">Dreams of Tomorrow #69</title>
+    <author>Jane Doe</author>
+    <price>5.28</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">Whispers of the Past #70</title>
+    <author>Jane Doe</author>
+    <price>33.88</price>
+  </book>
+  <book category="history">
+    <title lang="fr">Shadows of the Mind #71</title>
+    <author>Alice Johnson</author>
+    <price>44.04</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">A Love Beyond Time #72</title>
+    <author>Alice Johnson</author>
+    <price>34.52</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">Whispers of the Past #73</title>
+    <author>John Smith</author>
+    <price>31.11</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Dreams of Tomorrow #74</title>
+    <author>Jane Doe</author>
+    <price>17.77</price>
+  </book>
+  <book category="history">
+    <title lang="es">Whispers of the Past #75</title>
+    <author>Emily Davis</author>
+    <price>7.81</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">The Silent Forest #76</title>
+    <author>Alice Johnson</author>
+    <price>24.58</price>
+  </book>
+  <book category="history">
+    <title lang="de">Whispers of the Past #77</title>
+    <author>Jane Doe</author>
+    <price>13.82</price>
+  </book>
+  <book category="science">
+    <title lang="en">The Silent Forest #78</title>
+    <author>Jane Doe</author>
+    <price>38.46</price>
+  </book>
+  <book category="history">
+    <title lang="en">Dreams of Tomorrow #79</title>
+    <author>Jane Doe</author>
+    <price>49.27</price>
+  </book>
+  <book category="science">
+    <title lang="de">The Silent Forest #80</title>
+    <author>John Smith</author>
+    <price>31.58</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">Shadows of the Mind #81</title>
+    <author>Emily Davis</author>
+    <price>12.94</price>
+  </book>
+  <book category="science">
+    <title lang="it">The Silent Forest #82</title>
+    <author>John Smith</author>
+    <price>24.20</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Shadows of the Mind #83</title>
+    <author>Alice Johnson</author>
+    <price>24.13</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">The Silent Forest #84</title>
+    <author>John Smith</author>
+    <price>43.33</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">A Love Beyond Time #85</title>
+    <author>Mark Brown</author>
+    <price>44.74</price>
+  </book>
+  <book category="history">
+    <title lang="de">A Love Beyond Time #86</title>
+    <author>Alice Johnson</author>
+    <price>29.60</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">The Silent Forest #87</title>
+    <author>Emily Davis</author>
+    <price>19.16</price>
+  </book>
+  <book category="science">
+    <title lang="fr">Whispers of the Past #88</title>
+    <author>Alice Johnson</author>
+    <price>14.82</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Dreams of Tomorrow #89</title>
+    <author>Alice Johnson</author>
+    <price>31.72</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">Dreams of Tomorrow #90</title>
+    <author>Jane Doe</author>
+    <price>13.24</price>
+  </book>
+  <book category="history">
+    <title lang="it">Shadows of the Mind #91</title>
+    <author>Emily Davis</author>
+    <price>24.43</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">A Love Beyond Time #92</title>
+    <author>John Smith</author>
+    <price>42.26</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">The Silent Forest #93</title>
+    <author>Alice Johnson</author>
+    <price>35.45</price>
+  </book>
+  <book category="science">
+    <title lang="de">A Love Beyond Time #94</title>
+    <author>Mark Brown</author>
+    <price>47.88</price>
+  </book>
+  <book category="history">
+    <title lang="es">Whispers of the Past #95</title>
+    <author>Alice Johnson</author>
+    <price>7.91</price>
+  </book>
+  <book category="science">
+    <title lang="en">The Silent Forest #96</title>
+    <author>Alice Johnson</author>
+    <price>5.37</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">The Silent Forest #97</title>
+    <author>Mark Brown</author>
+    <price>32.78</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">The Silent Forest #98</title>
+    <author>John Smith</author>
+    <price>24.88</price>
+  </book>
+  <book category="history">
+    <title lang="it">Dreams of Tomorrow #99</title>
+    <author>Alice Johnson</author>
+    <price>45.62</price>
+  </book>
+  <book category="history">
+    <title lang="it">A Love Beyond Time #100</title>
+    <author>Mark Brown</author>
+    <price>30.22</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">The Silent Forest #101</title>
+    <author>Alice Johnson</author>
+    <price>34.77</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">A Love Beyond Time #102</title>
+    <author>John Smith</author>
+    <price>26.29</price>
+  </book>
+  <book category="science">
+    <title lang="de">Whispers of the Past #103</title>
+    <author>Emily Davis</author>
+    <price>17.65</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">Whispers of the Past #104</title>
+    <author>John Smith</author>
+    <price>20.37</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">A Love Beyond Time #105</title>
+    <author>Mark Brown</author>
+    <price>41.93</price>
+  </book>
+  <book category="history">
+    <title lang="es">Shadows of the Mind #106</title>
+    <author>Jane Doe</author>
+    <price>31.79</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Dreams of Tomorrow #107</title>
+    <author>Alice Johnson</author>
+    <price>8.50</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Whispers of the Past #108</title>
+    <author>Mark Brown</author>
+    <price>15.34</price>
+  </book>
+  <book category="history">
+    <title lang="fr">A Love Beyond Time #109</title>
+    <author>Emily Davis</author>
+    <price>26.58</price>
+  </book>
+  <book category="history">
+    <title lang="es">Whispers of the Past #110</title>
+    <author>Mark Brown</author>
+    <price>27.35</price>
+  </book>
+  <book category="science">
+    <title lang="en">Shadows of the Mind #111</title>
+    <author>Alice Johnson</author>
+    <price>33.22</price>
+  </book>
+  <book category="science">
+    <title lang="de">The Silent Forest #112</title>
+    <author>Jane Doe</author>
+    <price>16.28</price>
+  </book>
+  <book category="history">
+    <title lang="it">A Love Beyond Time #113</title>
+    <author>John Smith</author>
+    <price>18.32</price>
+  </book>
+  <book category="history">
+    <title lang="fr">A Love Beyond Time #114</title>
+    <author>Alice Johnson</author>
+    <price>18.17</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">The Silent Forest #115</title>
+    <author>Alice Johnson</author>
+    <price>36.92</price>
+  </book>
+  <book category="history">
+    <title lang="es">The Silent Forest #116</title>
+    <author>Jane Doe</author>
+    <price>22.88</price>
+  </book>
+  <book category="history">
+    <title lang="it">Whispers of the Past #117</title>
+    <author>Jane Doe</author>
+    <price>23.04</price>
+  </book>
+  <book category="history">
+    <title lang="fr">A Love Beyond Time #118</title>
+    <author>Emily Davis</author>
+    <price>38.04</price>
+  </book>
+  <book category="science">
+    <title lang="fr">Whispers of the Past #119</title>
+    <author>Mark Brown</author>
+    <price>23.21</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Whispers of the Past #120</title>
+    <author>Alice Johnson</author>
+    <price>7.35</price>
+  </book>
+  <book category="science">
+    <title lang="de">The Silent Forest #121</title>
+    <author>Emily Davis</author>
+    <price>22.30</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">Shadows of the Mind #122</title>
+    <author>Jane Doe</author>
+    <price>33.79</price>
+  </book>
+  <book category="history">
+    <title lang="fr">A Love Beyond Time #123</title>
+    <author>Emily Davis</author>
+    <price>24.69</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">Shadows of the Mind #124</title>
+    <author>Alice Johnson</author>
+    <price>46.39</price>
+  </book>
+  <book category="science">
+    <title lang="de">The Silent Forest #125</title>
+    <author>Alice Johnson</author>
+    <price>48.30</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">A Love Beyond Time #126</title>
+    <author>John Smith</author>
+    <price>42.60</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Whispers of the Past #127</title>
+    <author>John Smith</author>
+    <price>17.78</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Shadows of the Mind #128</title>
+    <author>John Smith</author>
+    <price>29.15</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">A Love Beyond Time #129</title>
+    <author>Jane Doe</author>
+    <price>33.66</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">A Love Beyond Time #130</title>
+    <author>Jane Doe</author>
+    <price>20.69</price>
+  </book>
+  <book category="fiction">
+    <title lang="it">Shadows of the Mind #131</title>
+    <author>Emily Davis</author>
+    <price>7.25</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">The Silent Forest #132</title>
+    <author>Alice Johnson</author>
+    <price>30.70</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Shadows of the Mind #133</title>
+    <author>Alice Johnson</author>
+    <price>14.43</price>
+  </book>
+  <book category="science">
+    <title lang="it">Dreams of Tomorrow #134</title>
+    <author>Jane Doe</author>
+    <price>18.08</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Whispers of the Past #135</title>
+    <author>Mark Brown</author>
+    <price>45.83</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="de">Whispers of the Past #136</title>
+    <author>Mark Brown</author>
+    <price>39.14</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">Shadows of the Mind #137</title>
+    <author>Mark Brown</author>
+    <price>37.51</price>
+  </book>
+  <book category="science">
+    <title lang="de">The Silent Forest #138</title>
+    <author>Jane Doe</author>
+    <price>9.02</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">A Love Beyond Time #139</title>
+    <author>Jane Doe</author>
+    <price>43.47</price>
+  </book>
+  <book category="history">
+    <title lang="de">A Love Beyond Time #140</title>
+    <author>Emily Davis</author>
+    <price>35.19</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">Shadows of the Mind #141</title>
+    <author>Alice Johnson</author>
+    <price>9.42</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">Dreams of Tomorrow #142</title>
+    <author>Jane Doe</author>
+    <price>39.64</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">Dreams of Tomorrow #143</title>
+    <author>Emily Davis</author>
+    <price>24.13</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">A Love Beyond Time #144</title>
+    <author>Alice Johnson</author>
+    <price>39.93</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">Dreams of Tomorrow #145</title>
+    <author>Mark Brown</author>
+    <price>32.34</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">Dreams of Tomorrow #146</title>
+    <author>Emily Davis</author>
+    <price>27.53</price>
+  </book>
+  <book category="history">
+    <title lang="fr">Dreams of Tomorrow #147</title>
+    <author>Mark Brown</author>
+    <price>6.21</price>
+  </book>
+  <book category="history">
+    <title lang="en">Whispers of the Past #148</title>
+    <author>Mark Brown</author>
+    <price>46.98</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">The Silent Forest #149</title>
+    <author>Alice Johnson</author>
+    <price>34.07</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">The Silent Forest #150</title>
+    <author>Jane Doe</author>
+    <price>46.95</price>
+  </book>
+  <book category="history">
+    <title lang="it">The Silent Forest #151</title>
+    <author>Emily Davis</author>
+    <price>25.36</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">Shadows of the Mind #152</title>
+    <author>Emily Davis</author>
+    <price>16.78</price>
+  </book>
+  <book category="science">
+    <title lang="fr">A Love Beyond Time #153</title>
+    <author>Alice Johnson</author>
+    <price>29.59</price>
+  </book>
+  <book category="science">
+    <title lang="de">A Love Beyond Time #154</title>
+    <author>Emily Davis</author>
+    <price>34.23</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">The Silent Forest #155</title>
+    <author>Emily Davis</author>
+    <price>33.90</price>
+  </book>
+  <book category="history">
+    <title lang="en">The Silent Forest #156</title>
+    <author>Emily Davis</author>
+    <price>22.22</price>
+  </book>
+  <book category="science">
+    <title lang="de">Whispers of the Past #157</title>
+    <author>John Smith</author>
+    <price>34.20</price>
+  </book>
+  <book category="history">
+    <title lang="es">The Silent Forest #158</title>
+    <author>Jane Doe</author>
+    <price>31.65</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">Shadows of the Mind #159</title>
+    <author>John Smith</author>
+    <price>42.49</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">Dreams of Tomorrow #160</title>
+    <author>Jane Doe</author>
+    <price>40.35</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">A Love Beyond Time #161</title>
+    <author>Jane Doe</author>
+    <price>35.71</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">The Silent Forest #162</title>
+    <author>Mark Brown</author>
+    <price>18.21</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">Whispers of the Past #163</title>
+    <author>Emily Davis</author>
+    <price>34.72</price>
+  </book>
+  <book category="history">
+    <title lang="it">A Love Beyond Time #164</title>
+    <author>Jane Doe</author>
+    <price>16.16</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">A Love Beyond Time #165</title>
+    <author>Alice Johnson</author>
+    <price>8.66</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">Shadows of the Mind #166</title>
+    <author>Mark Brown</author>
+    <price>9.60</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">A Love Beyond Time #167</title>
+    <author>Mark Brown</author>
+    <price>21.42</price>
+  </book>
+  <book category="history">
+    <title lang="es">Dreams of Tomorrow #168</title>
+    <author>Emily Davis</author>
+    <price>9.80</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">The Silent Forest #169</title>
+    <author>Emily Davis</author>
+    <price>9.00</price>
+  </book>
+  <book category="history">
+    <title lang="fr">A Love Beyond Time #170</title>
+    <author>Jane Doe</author>
+    <price>47.12</price>
+  </book>
+  <book category="science">
+    <title lang="es">A Love Beyond Time #171</title>
+    <author>Mark Brown</author>
+    <price>5.49</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">A Love Beyond Time #172</title>
+    <author>John Smith</author>
+    <price>5.25</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">Dreams of Tomorrow #173</title>
+    <author>Emily Davis</author>
+    <price>7.90</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Shadows of the Mind #174</title>
+    <author>Emily Davis</author>
+    <price>19.52</price>
+  </book>
+  <book category="science">
+    <title lang="fr">Dreams of Tomorrow #175</title>
+    <author>John Smith</author>
+    <price>42.79</price>
+  </book>
+  <book category="science">
+    <title lang="es">Shadows of the Mind #176</title>
+    <author>Mark Brown</author>
+    <price>9.30</price>
+  </book>
+  <book category="history">
+    <title lang="fr">The Silent Forest #177</title>
+    <author>John Smith</author>
+    <price>16.56</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">A Love Beyond Time #178</title>
+    <author>Emily Davis</author>
+    <price>39.17</price>
+  </book>
+  <book category="history">
+    <title lang="de">The Silent Forest #179</title>
+    <author>Alice Johnson</author>
+    <price>38.11</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">Dreams of Tomorrow #180</title>
+    <author>John Smith</author>
+    <price>41.87</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Shadows of the Mind #181</title>
+    <author>Alice Johnson</author>
+    <price>39.00</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Shadows of the Mind #182</title>
+    <author>John Smith</author>
+    <price>33.90</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Dreams of Tomorrow #183</title>
+    <author>Jane Doe</author>
+    <price>5.74</price>
+  </book>
+  <book category="history">
+    <title lang="es">The Silent Forest #184</title>
+    <author>John Smith</author>
+    <price>24.96</price>
+  </book>
+  <book category="history">
+    <title lang="it">Shadows of the Mind #185</title>
+    <author>Mark Brown</author>
+    <price>48.11</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">Dreams of Tomorrow #186</title>
+    <author>Jane Doe</author>
+    <price>15.52</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">Whispers of the Past #187</title>
+    <author>John Smith</author>
+    <price>11.98</price>
+  </book>
+  <book category="science">
+    <title lang="es">Dreams of Tomorrow #188</title>
+    <author>Emily Davis</author>
+    <price>6.37</price>
+  </book>
+  <book category="science">
+    <title lang="fr">Dreams of Tomorrow #189</title>
+    <author>John Smith</author>
+    <price>31.31</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">The Silent Forest #190</title>
+    <author>Emily Davis</author>
+    <price>7.10</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">Whispers of the Past #191</title>
+    <author>Jane Doe</author>
+    <price>9.60</price>
+  </book>
+  <book category="history">
+    <title lang="en">A Love Beyond Time #192</title>
+    <author>Mark Brown</author>
+    <price>35.77</price>
+  </book>
+  <book category="history">
+    <title lang="fr">Whispers of the Past #193</title>
+    <author>Emily Davis</author>
+    <price>7.44</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">Shadows of the Mind #194</title>
+    <author>Mark Brown</author>
+    <price>45.13</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">The Silent Forest #195</title>
+    <author>Jane Doe</author>
+    <price>6.74</price>
+  </book>
+  <book category="science">
+    <title lang="es">Whispers of the Past #196</title>
+    <author>Mark Brown</author>
+    <price>15.81</price>
+  </book>
+  <book category="history">
+    <title lang="fr">Dreams of Tomorrow #197</title>
+    <author>Alice Johnson</author>
+    <price>44.09</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">Dreams of Tomorrow #198</title>
+    <author>Mark Brown</author>
+    <price>30.59</price>
+  </book>
+  <book category="science">
+    <title lang="en">The Silent Forest #199</title>
+    <author>John Smith</author>
+    <price>9.74</price>
+  </book>
+  <book category="science">
+    <title lang="fr">The Silent Forest #200</title>
+    <author>John Smith</author>
+    <price>16.79</price>
+  </book>
+  <book category="history">
+    <title lang="it">Dreams of Tomorrow #201</title>
+    <author>John Smith</author>
+    <price>32.96</price>
+  </book>
+  <book category="history">
+    <title lang="it">Shadows of the Mind #202</title>
+    <author>John Smith</author>
+    <price>48.21</price>
+  </book>
+  <book category="science">
+    <title lang="fr">A Love Beyond Time #203</title>
+    <author>Jane Doe</author>
+    <price>26.30</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">Dreams of Tomorrow #204</title>
+    <author>Mark Brown</author>
+    <price>25.55</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">Shadows of the Mind #205</title>
+    <author>Mark Brown</author>
+    <price>28.70</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">A Love Beyond Time #206</title>
+    <author>Jane Doe</author>
+    <price>9.73</price>
+  </book>
+  <book category="science">
+    <title lang="de">Whispers of the Past #207</title>
+    <author>Mark Brown</author>
+    <price>13.34</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">The Silent Forest #208</title>
+    <author>Jane Doe</author>
+    <price>38.06</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">Shadows of the Mind #209</title>
+    <author>Emily Davis</author>
+    <price>38.22</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">A Love Beyond Time #210</title>
+    <author>Jane Doe</author>
+    <price>21.98</price>
+  </book>
+  <book category="science">
+    <title lang="de">The Silent Forest #211</title>
+    <author>Alice Johnson</author>
+    <price>6.80</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">The Silent Forest #212</title>
+    <author>Mark Brown</author>
+    <price>7.76</price>
+  </book>
+  <book category="history">
+    <title lang="en">Shadows of the Mind #213</title>
+    <author>Mark Brown</author>
+    <price>47.69</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">The Silent Forest #214</title>
+    <author>John Smith</author>
+    <price>26.41</price>
+  </book>
+  <book category="fiction">
+    <title lang="it">Whispers of the Past #215</title>
+    <author>Jane Doe</author>
+    <price>48.66</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">Shadows of the Mind #216</title>
+    <author>Jane Doe</author>
+    <price>29.28</price>
+  </book>
+  <book category="science">
+    <title lang="en">Dreams of Tomorrow #217</title>
+    <author>Alice Johnson</author>
+    <price>28.89</price>
+  </book>
+  <book category="science">
+    <title lang="de">Whispers of the Past #218</title>
+    <author>John Smith</author>
+    <price>45.44</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">Whispers of the Past #219</title>
+    <author>John Smith</author>
+    <price>19.89</price>
+  </book>
+  <book category="history">
+    <title lang="it">The Silent Forest #220</title>
+    <author>John Smith</author>
+    <price>48.87</price>
+  </book>
+  <book category="history">
+    <title lang="it">The Silent Forest #221</title>
+    <author>Mark Brown</author>
+    <price>31.28</price>
+  </book>
+  <book category="history">
+    <title lang="es">The Silent Forest #222</title>
+    <author>Alice Johnson</author>
+    <price>34.24</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">A Love Beyond Time #223</title>
+    <author>Mark Brown</author>
+    <price>11.56</price>
+  </book>
+  <book category="science">
+    <title lang="fr">A Love Beyond Time #224</title>
+    <author>Mark Brown</author>
+    <price>14.11</price>
+  </book>
+  <book category="history">
+    <title lang="it">The Silent Forest #225</title>
+    <author>John Smith</author>
+    <price>15.16</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">Dreams of Tomorrow #226</title>
+    <author>Mark Brown</author>
+    <price>37.39</price>
+  </book>
+  <book category="fiction">
+    <title lang="it">Whispers of the Past #227</title>
+    <author>Emily Davis</author>
+    <price>29.63</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="de">Whispers of the Past #228</title>
+    <author>Jane Doe</author>
+    <price>34.67</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Whispers of the Past #229</title>
+    <author>Mark Brown</author>
+    <price>33.47</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">Whispers of the Past #230</title>
+    <author>John Smith</author>
+    <price>27.53</price>
+  </book>
+  <book category="science">
+    <title lang="it">Whispers of the Past #231</title>
+    <author>Emily Davis</author>
+    <price>11.94</price>
+  </book>
+  <book category="science">
+    <title lang="en">Shadows of the Mind #232</title>
+    <author>Emily Davis</author>
+    <price>29.59</price>
+  </book>
+  <book category="history">
+    <title lang="it">Dreams of Tomorrow #233</title>
+    <author>Emily Davis</author>
+    <price>11.24</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">The Silent Forest #234</title>
+    <author>John Smith</author>
+    <price>49.20</price>
+  </book>
+  <book category="science">
+    <title lang="it">Shadows of the Mind #235</title>
+    <author>Emily Davis</author>
+    <price>23.50</price>
+  </book>
+  <book category="science">
+    <title lang="de">Whispers of the Past #236</title>
+    <author>Mark Brown</author>
+    <price>23.64</price>
+  </book>
+  <book category="science">
+    <title lang="en">The Silent Forest #237</title>
+    <author>Mark Brown</author>
+    <price>8.25</price>
+  </book>
+  <book category="history">
+    <title lang="de">Whispers of the Past #238</title>
+    <author>John Smith</author>
+    <price>46.86</price>
+  </book>
+  <book category="science">
+    <title lang="it">Whispers of the Past #239</title>
+    <author>Alice Johnson</author>
+    <price>26.39</price>
+  </book>
+  <book category="science">
+    <title lang="en">Whispers of the Past #240</title>
+    <author>John Smith</author>
+    <price>46.50</price>
+  </book>
+  <book category="science">
+    <title lang="es">Dreams of Tomorrow #241</title>
+    <author>Emily Davis</author>
+    <price>27.37</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">Dreams of Tomorrow #242</title>
+    <author>Emily Davis</author>
+    <price>49.19</price>
+  </book>
+  <book category="history">
+    <title lang="de">The Silent Forest #243</title>
+    <author>Emily Davis</author>
+    <price>49.67</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">A Love Beyond Time #244</title>
+    <author>John Smith</author>
+    <price>18.75</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">Shadows of the Mind #245</title>
+    <author>Emily Davis</author>
+    <price>16.12</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="de">The Silent Forest #246</title>
+    <author>Alice Johnson</author>
+    <price>27.41</price>
+  </book>
+  <book category="history">
+    <title lang="it">Whispers of the Past #247</title>
+    <author>Alice Johnson</author>
+    <price>34.08</price>
+  </book>
+  <book category="science">
+    <title lang="it">The Silent Forest #248</title>
+    <author>Alice Johnson</author>
+    <price>38.95</price>
+  </book>
+  <book category="science">
+    <title lang="fr">Shadows of the Mind #249</title>
+    <author>Alice Johnson</author>
+    <price>8.65</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">Shadows of the Mind #250</title>
+    <author>Emily Davis</author>
+    <price>14.89</price>
+  </book>
+  <book category="history">
+    <title lang="it">The Silent Forest #251</title>
+    <author>Alice Johnson</author>
+    <price>37.69</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">Dreams of Tomorrow #252</title>
+    <author>Mark Brown</author>
+    <price>48.89</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Dreams of Tomorrow #253</title>
+    <author>Jane Doe</author>
+    <price>9.07</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">The Silent Forest #254</title>
+    <author>John Smith</author>
+    <price>38.57</price>
+  </book>
+  <book category="history">
+    <title lang="en">A Love Beyond Time #255</title>
+    <author>Mark Brown</author>
+    <price>18.61</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">Whispers of the Past #256</title>
+    <author>Alice Johnson</author>
+    <price>30.53</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">The Silent Forest #257</title>
+    <author>John Smith</author>
+    <price>45.88</price>
+  </book>
+  <book category="history">
+    <title lang="it">The Silent Forest #258</title>
+    <author>Jane Doe</author>
+    <price>47.34</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">The Silent Forest #259</title>
+    <author>Mark Brown</author>
+    <price>11.17</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">Whispers of the Past #260</title>
+    <author>Alice Johnson</author>
+    <price>34.05</price>
+  </book>
+  <book category="history">
+    <title lang="de">Shadows of the Mind #261</title>
+    <author>Jane Doe</author>
+    <price>13.02</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">A Love Beyond Time #262</title>
+    <author>Alice Johnson</author>
+    <price>9.84</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">Whispers of the Past #263</title>
+    <author>Emily Davis</author>
+    <price>20.06</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="de">Shadows of the Mind #264</title>
+    <author>Mark Brown</author>
+    <price>30.70</price>
+  </book>
+  <book category="history">
+    <title lang="en">A Love Beyond Time #265</title>
+    <author>Emily Davis</author>
+    <price>17.38</price>
+  </book>
+  <book category="science">
+    <title lang="de">A Love Beyond Time #266</title>
+    <author>Mark Brown</author>
+    <price>26.45</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">Shadows of the Mind #267</title>
+    <author>Alice Johnson</author>
+    <price>27.37</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">The Silent Forest #268</title>
+    <author>Mark Brown</author>
+    <price>48.11</price>
+  </book>
+  <book category="history">
+    <title lang="it">The Silent Forest #269</title>
+    <author>John Smith</author>
+    <price>43.48</price>
+  </book>
+  <book category="history">
+    <title lang="es">The Silent Forest #270</title>
+    <author>Mark Brown</author>
+    <price>10.63</price>
+  </book>
+  <book category="science">
+    <title lang="en">Shadows of the Mind #271</title>
+    <author>Alice Johnson</author>
+    <price>20.18</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">Whispers of the Past #272</title>
+    <author>Alice Johnson</author>
+    <price>33.90</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">A Love Beyond Time #273</title>
+    <author>Mark Brown</author>
+    <price>8.79</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">Dreams of Tomorrow #274</title>
+    <author>Alice Johnson</author>
+    <price>13.89</price>
+  </book>
+  <book category="science">
+    <title lang="fr">Whispers of the Past #275</title>
+    <author>Emily Davis</author>
+    <price>46.64</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">Whispers of the Past #276</title>
+    <author>Jane Doe</author>
+    <price>45.67</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">Shadows of the Mind #277</title>
+    <author>Alice Johnson</author>
+    <price>11.22</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">The Silent Forest #278</title>
+    <author>Alice Johnson</author>
+    <price>14.35</price>
+  </book>
+  <book category="science">
+    <title lang="fr">A Love Beyond Time #279</title>
+    <author>John Smith</author>
+    <price>28.43</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Whispers of the Past #280</title>
+    <author>John Smith</author>
+    <price>25.14</price>
+  </book>
+  <book category="history">
+    <title lang="es">The Silent Forest #281</title>
+    <author>Mark Brown</author>
+    <price>43.87</price>
+  </book>
+  <book category="history">
+    <title lang="es">Whispers of the Past #282</title>
+    <author>John Smith</author>
+    <price>31.32</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Dreams of Tomorrow #283</title>
+    <author>Mark Brown</author>
+    <price>44.54</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">Whispers of the Past #284</title>
+    <author>John Smith</author>
+    <price>37.12</price>
+  </book>
+  <book category="science">
+    <title lang="de">Whispers of the Past #285</title>
+    <author>Emily Davis</author>
+    <price>16.41</price>
+  </book>
+  <book category="history">
+    <title lang="it">A Love Beyond Time #286</title>
+    <author>Alice Johnson</author>
+    <price>22.81</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">Dreams of Tomorrow #287</title>
+    <author>Jane Doe</author>
+    <price>28.40</price>
+  </book>
+  <book category="science">
+    <title lang="es">The Silent Forest #288</title>
+    <author>Alice Johnson</author>
+    <price>29.91</price>
+  </book>
+  <book category="history">
+    <title lang="de">Whispers of the Past #289</title>
+    <author>John Smith</author>
+    <price>36.35</price>
+  </book>
+  <book category="science">
+    <title lang="en">A Love Beyond Time #290</title>
+    <author>Alice Johnson</author>
+    <price>49.22</price>
+  </book>
+  <book category="science">
+    <title lang="es">A Love Beyond Time #291</title>
+    <author>Emily Davis</author>
+    <price>49.62</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Dreams of Tomorrow #292</title>
+    <author>Jane Doe</author>
+    <price>36.79</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">Whispers of the Past #293</title>
+    <author>Alice Johnson</author>
+    <price>31.51</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">A Love Beyond Time #294</title>
+    <author>Jane Doe</author>
+    <price>30.71</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Shadows of the Mind #295</title>
+    <author>Mark Brown</author>
+    <price>31.55</price>
+  </book>
+  <book category="science">
+    <title lang="it">Dreams of Tomorrow #296</title>
+    <author>Mark Brown</author>
+    <price>48.58</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">A Love Beyond Time #297</title>
+    <author>Emily Davis</author>
+    <price>12.83</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">Whispers of the Past #298</title>
+    <author>John Smith</author>
+    <price>32.00</price>
+  </book>
+  <book category="science">
+    <title lang="es">Whispers of the Past #299</title>
+    <author>Alice Johnson</author>
+    <price>43.58</price>
+  </book>
+  <book category="science">
+    <title lang="it">Whispers of the Past #300</title>
+    <author>Jane Doe</author>
+    <price>41.98</price>
+  </book>
+  <book category="history">
+    <title lang="fr">A Love Beyond Time #301</title>
+    <author>Jane Doe</author>
+    <price>5.71</price>
+  </book>
+  <book category="science">
+    <title lang="es">Whispers of the Past #302</title>
+    <author>Alice Johnson</author>
+    <price>26.76</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">Dreams of Tomorrow #303</title>
+    <author>Mark Brown</author>
+    <price>39.17</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">Whispers of the Past #304</title>
+    <author>John Smith</author>
+    <price>27.67</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">The Silent Forest #305</title>
+    <author>Alice Johnson</author>
+    <price>7.21</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">Whispers of the Past #306</title>
+    <author>Alice Johnson</author>
+    <price>38.81</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">The Silent Forest #307</title>
+    <author>John Smith</author>
+    <price>15.83</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">Whispers of the Past #308</title>
+    <author>Emily Davis</author>
+    <price>20.31</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">The Silent Forest #309</title>
+    <author>Mark Brown</author>
+    <price>8.08</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">Dreams of Tomorrow #310</title>
+    <author>Mark Brown</author>
+    <price>28.51</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">Whispers of the Past #311</title>
+    <author>Mark Brown</author>
+    <price>18.01</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">Dreams of Tomorrow #312</title>
+    <author>Emily Davis</author>
+    <price>5.20</price>
+  </book>
+  <book category="fiction">
+    <title lang="it">The Silent Forest #313</title>
+    <author>John Smith</author>
+    <price>42.50</price>
+  </book>
+  <book category="history">
+    <title lang="es">Dreams of Tomorrow #314</title>
+    <author>Jane Doe</author>
+    <price>43.03</price>
+  </book>
+  <book category="history">
+    <title lang="it">A Love Beyond Time #315</title>
+    <author>Jane Doe</author>
+    <price>31.19</price>
+  </book>
+  <book category="history">
+    <title lang="de">The Silent Forest #316</title>
+    <author>Jane Doe</author>
+    <price>13.90</price>
+  </book>
+  <book category="science">
+    <title lang="it">A Love Beyond Time #317</title>
+    <author>Emily Davis</author>
+    <price>44.21</price>
+  </book>
+  <book category="history">
+    <title lang="fr">Whispers of the Past #318</title>
+    <author>Mark Brown</author>
+    <price>24.73</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="de">The Silent Forest #319</title>
+    <author>Mark Brown</author>
+    <price>13.08</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">Whispers of the Past #320</title>
+    <author>Jane Doe</author>
+    <price>29.94</price>
+  </book>
+  <book category="history">
+    <title lang="fr">Shadows of the Mind #321</title>
+    <author>John Smith</author>
+    <price>30.97</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Shadows of the Mind #322</title>
+    <author>Mark Brown</author>
+    <price>27.42</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Dreams of Tomorrow #323</title>
+    <author>Emily Davis</author>
+    <price>42.75</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">Shadows of the Mind #324</title>
+    <author>John Smith</author>
+    <price>45.12</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">Shadows of the Mind #325</title>
+    <author>Mark Brown</author>
+    <price>17.74</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="de">Shadows of the Mind #326</title>
+    <author>Mark Brown</author>
+    <price>13.54</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">Dreams of Tomorrow #327</title>
+    <author>Alice Johnson</author>
+    <price>5.60</price>
+  </book>
+  <book category="science">
+    <title lang="it">Whispers of the Past #328</title>
+    <author>Jane Doe</author>
+    <price>7.25</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">Shadows of the Mind #329</title>
+    <author>Mark Brown</author>
+    <price>35.61</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">Whispers of the Past #330</title>
+    <author>Emily Davis</author>
+    <price>29.97</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Whispers of the Past #331</title>
+    <author>John Smith</author>
+    <price>19.76</price>
+  </book>
+  <book category="history">
+    <title lang="de">A Love Beyond Time #332</title>
+    <author>Emily Davis</author>
+    <price>23.59</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">A Love Beyond Time #333</title>
+    <author>John Smith</author>
+    <price>6.98</price>
+  </book>
+  <book category="fiction">
+    <title lang="it">The Silent Forest #334</title>
+    <author>Emily Davis</author>
+    <price>23.92</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Shadows of the Mind #335</title>
+    <author>Mark Brown</author>
+    <price>24.90</price>
+  </book>
+  <book category="history">
+    <title lang="de">Shadows of the Mind #336</title>
+    <author>John Smith</author>
+    <price>6.89</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">The Silent Forest #337</title>
+    <author>John Smith</author>
+    <price>16.13</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">The Silent Forest #338</title>
+    <author>Mark Brown</author>
+    <price>29.54</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">A Love Beyond Time #339</title>
+    <author>Emily Davis</author>
+    <price>33.67</price>
+  </book>
+  <book category="fiction">
+    <title lang="it">The Silent Forest #340</title>
+    <author>Mark Brown</author>
+    <price>18.84</price>
+  </book>
+  <book category="science">
+    <title lang="es">Dreams of Tomorrow #341</title>
+    <author>Emily Davis</author>
+    <price>42.49</price>
+  </book>
+  <book category="history">
+    <title lang="de">Whispers of the Past #342</title>
+    <author>John Smith</author>
+    <price>37.91</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">A Love Beyond Time #343</title>
+    <author>Emily Davis</author>
+    <price>12.98</price>
+  </book>
+  <book category="science">
+    <title lang="de">Shadows of the Mind #344</title>
+    <author>Mark Brown</author>
+    <price>9.91</price>
+  </book>
+  <book category="science">
+    <title lang="fr">The Silent Forest #345</title>
+    <author>Mark Brown</author>
+    <price>17.07</price>
+  </book>
+  <book category="science">
+    <title lang="de">Whispers of the Past #346</title>
+    <author>John Smith</author>
+    <price>9.54</price>
+  </book>
+  <book category="history">
+    <title lang="es">The Silent Forest #347</title>
+    <author>Alice Johnson</author>
+    <price>18.70</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">Shadows of the Mind #348</title>
+    <author>Emily Davis</author>
+    <price>45.29</price>
+  </book>
+  <book category="science">
+    <title lang="it">Shadows of the Mind #349</title>
+    <author>Alice Johnson</author>
+    <price>7.82</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">Shadows of the Mind #350</title>
+    <author>Jane Doe</author>
+    <price>26.62</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Whispers of the Past #351</title>
+    <author>Mark Brown</author>
+    <price>13.04</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">Dreams of Tomorrow #352</title>
+    <author>Alice Johnson</author>
+    <price>43.90</price>
+  </book>
+  <book category="science">
+    <title lang="en">Dreams of Tomorrow #353</title>
+    <author>Emily Davis</author>
+    <price>8.65</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">The Silent Forest #354</title>
+    <author>Mark Brown</author>
+    <price>11.63</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">Whispers of the Past #355</title>
+    <author>Mark Brown</author>
+    <price>22.91</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">A Love Beyond Time #356</title>
+    <author>John Smith</author>
+    <price>31.66</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">A Love Beyond Time #357</title>
+    <author>Jane Doe</author>
+    <price>30.41</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">The Silent Forest #358</title>
+    <author>Jane Doe</author>
+    <price>27.56</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">Shadows of the Mind #359</title>
+    <author>Jane Doe</author>
+    <price>13.39</price>
+  </book>
+  <book category="science">
+    <title lang="de">A Love Beyond Time #360</title>
+    <author>Alice Johnson</author>
+    <price>47.18</price>
+  </book>
+  <book category="science">
+    <title lang="de">Dreams of Tomorrow #361</title>
+    <author>Alice Johnson</author>
+    <price>12.42</price>
+  </book>
+  <book category="science">
+    <title lang="fr">A Love Beyond Time #362</title>
+    <author>Mark Brown</author>
+    <price>40.88</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">Whispers of the Past #363</title>
+    <author>Alice Johnson</author>
+    <price>17.14</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">A Love Beyond Time #364</title>
+    <author>Emily Davis</author>
+    <price>36.75</price>
+  </book>
+  <book category="science">
+    <title lang="es">A Love Beyond Time #365</title>
+    <author>John Smith</author>
+    <price>47.09</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="de">A Love Beyond Time #366</title>
+    <author>John Smith</author>
+    <price>15.75</price>
+  </book>
+  <book category="science">
+    <title lang="it">The Silent Forest #367</title>
+    <author>Jane Doe</author>
+    <price>24.75</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">A Love Beyond Time #368</title>
+    <author>John Smith</author>
+    <price>7.75</price>
+  </book>
+  <book category="science">
+    <title lang="fr">Shadows of the Mind #369</title>
+    <author>John Smith</author>
+    <price>5.98</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="de">A Love Beyond Time #370</title>
+    <author>Emily Davis</author>
+    <price>9.34</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">A Love Beyond Time #371</title>
+    <author>Alice Johnson</author>
+    <price>20.12</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Shadows of the Mind #372</title>
+    <author>Alice Johnson</author>
+    <price>14.26</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Dreams of Tomorrow #373</title>
+    <author>Emily Davis</author>
+    <price>46.80</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">The Silent Forest #374</title>
+    <author>Alice Johnson</author>
+    <price>32.12</price>
+  </book>
+  <book category="science">
+    <title lang="de">The Silent Forest #375</title>
+    <author>Jane Doe</author>
+    <price>18.64</price>
+  </book>
+  <book category="history">
+    <title lang="es">Whispers of the Past #376</title>
+    <author>John Smith</author>
+    <price>16.01</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">Shadows of the Mind #377</title>
+    <author>Mark Brown</author>
+    <price>40.25</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">Dreams of Tomorrow #378</title>
+    <author>John Smith</author>
+    <price>43.36</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">The Silent Forest #379</title>
+    <author>Alice Johnson</author>
+    <price>39.90</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Dreams of Tomorrow #380</title>
+    <author>Alice Johnson</author>
+    <price>48.75</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">The Silent Forest #381</title>
+    <author>Jane Doe</author>
+    <price>48.29</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">Dreams of Tomorrow #382</title>
+    <author>Mark Brown</author>
+    <price>17.84</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">Dreams of Tomorrow #383</title>
+    <author>Jane Doe</author>
+    <price>39.37</price>
+  </book>
+  <book category="science">
+    <title lang="es">A Love Beyond Time #384</title>
+    <author>Emily Davis</author>
+    <price>35.85</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Shadows of the Mind #385</title>
+    <author>John Smith</author>
+    <price>21.13</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">Shadows of the Mind #386</title>
+    <author>Emily Davis</author>
+    <price>12.85</price>
+  </book>
+  <book category="history">
+    <title lang="de">Whispers of the Past #387</title>
+    <author>Mark Brown</author>
+    <price>19.60</price>
+  </book>
+  <book category="science">
+    <title lang="it">The Silent Forest #388</title>
+    <author>Alice Johnson</author>
+    <price>8.43</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">The Silent Forest #389</title>
+    <author>Alice Johnson</author>
+    <price>38.29</price>
+  </book>
+  <book category="science">
+    <title lang="it">A Love Beyond Time #390</title>
+    <author>Jane Doe</author>
+    <price>30.31</price>
+  </book>
+  <book category="fiction">
+    <title lang="it">A Love Beyond Time #391</title>
+    <author>Alice Johnson</author>
+    <price>48.78</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">A Love Beyond Time #392</title>
+    <author>Jane Doe</author>
+    <price>19.95</price>
+  </book>
+  <book category="history">
+    <title lang="en">Shadows of the Mind #393</title>
+    <author>Emily Davis</author>
+    <price>15.96</price>
+  </book>
+  <book category="science">
+    <title lang="en">Shadows of the Mind #394</title>
+    <author>Jane Doe</author>
+    <price>30.35</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">Whispers of the Past #395</title>
+    <author>Jane Doe</author>
+    <price>35.41</price>
+  </book>
+  <book category="science">
+    <title lang="en">Dreams of Tomorrow #396</title>
+    <author>Alice Johnson</author>
+    <price>11.24</price>
+  </book>
+  <book category="history">
+    <title lang="fr">A Love Beyond Time #397</title>
+    <author>Mark Brown</author>
+    <price>20.35</price>
+  </book>
+  <book category="science">
+    <title lang="es">Dreams of Tomorrow #398</title>
+    <author>John Smith</author>
+    <price>38.12</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">A Love Beyond Time #399</title>
+    <author>John Smith</author>
+    <price>45.96</price>
+  </book>
+  <book category="science">
+    <title lang="fr">A Love Beyond Time #400</title>
+    <author>Alice Johnson</author>
+    <price>22.78</price>
+  </book>
+  <book category="history">
+    <title lang="it">Dreams of Tomorrow #401</title>
+    <author>Emily Davis</author>
+    <price>34.42</price>
+  </book>
+  <book category="history">
+    <title lang="it">The Silent Forest #402</title>
+    <author>Mark Brown</author>
+    <price>25.75</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">A Love Beyond Time #403</title>
+    <author>Emily Davis</author>
+    <price>26.79</price>
+  </book>
+  <book category="history">
+    <title lang="en">A Love Beyond Time #404</title>
+    <author>Mark Brown</author>
+    <price>28.28</price>
+  </book>
+  <book category="science">
+    <title lang="es">Dreams of Tomorrow #405</title>
+    <author>Alice Johnson</author>
+    <price>12.82</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">Dreams of Tomorrow #406</title>
+    <author>Emily Davis</author>
+    <price>21.50</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">Whispers of the Past #407</title>
+    <author>Emily Davis</author>
+    <price>24.10</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">The Silent Forest #408</title>
+    <author>Jane Doe</author>
+    <price>37.11</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Dreams of Tomorrow #409</title>
+    <author>Jane Doe</author>
+    <price>20.67</price>
+  </book>
+  <book category="science">
+    <title lang="en">Dreams of Tomorrow #410</title>
+    <author>John Smith</author>
+    <price>26.71</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">Whispers of the Past #411</title>
+    <author>Alice Johnson</author>
+    <price>39.90</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">Shadows of the Mind #412</title>
+    <author>Alice Johnson</author>
+    <price>31.24</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Shadows of the Mind #413</title>
+    <author>Jane Doe</author>
+    <price>37.71</price>
+  </book>
+  <book category="history">
+    <title lang="es">Shadows of the Mind #414</title>
+    <author>Jane Doe</author>
+    <price>15.91</price>
+  </book>
+  <book category="history">
+    <title lang="de">The Silent Forest #415</title>
+    <author>Jane Doe</author>
+    <price>11.45</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Shadows of the Mind #416</title>
+    <author>Jane Doe</author>
+    <price>22.21</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">A Love Beyond Time #417</title>
+    <author>Jane Doe</author>
+    <price>29.61</price>
+  </book>
+  <book category="history">
+    <title lang="es">Whispers of the Past #418</title>
+    <author>John Smith</author>
+    <price>8.81</price>
+  </book>
+  <book category="history">
+    <title lang="de">The Silent Forest #419</title>
+    <author>Emily Davis</author>
+    <price>17.15</price>
+  </book>
+  <book category="science">
+    <title lang="fr">The Silent Forest #420</title>
+    <author>Alice Johnson</author>
+    <price>42.25</price>
+  </book>
+  <book category="history">
+    <title lang="de">Whispers of the Past #421</title>
+    <author>John Smith</author>
+    <price>10.23</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">Shadows of the Mind #422</title>
+    <author>Mark Brown</author>
+    <price>38.22</price>
+  </book>
+  <book category="fiction">
+    <title lang="it">Dreams of Tomorrow #423</title>
+    <author>Emily Davis</author>
+    <price>43.59</price>
+  </book>
+  <book category="history">
+    <title lang="en">Shadows of the Mind #424</title>
+    <author>Jane Doe</author>
+    <price>18.69</price>
+  </book>
+  <book category="science">
+    <title lang="en">Whispers of the Past #425</title>
+    <author>Emily Davis</author>
+    <price>28.17</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Dreams of Tomorrow #426</title>
+    <author>Jane Doe</author>
+    <price>49.01</price>
+  </book>
+  <book category="science">
+    <title lang="en">A Love Beyond Time #427</title>
+    <author>Alice Johnson</author>
+    <price>29.38</price>
+  </book>
+  <book category="science">
+    <title lang="de">Dreams of Tomorrow #428</title>
+    <author>Alice Johnson</author>
+    <price>7.05</price>
+  </book>
+  <book category="fiction">
+    <title lang="it">Shadows of the Mind #429</title>
+    <author>Mark Brown</author>
+    <price>18.23</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">Whispers of the Past #430</title>
+    <author>Mark Brown</author>
+    <price>35.58</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">Shadows of the Mind #431</title>
+    <author>Alice Johnson</author>
+    <price>10.08</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">A Love Beyond Time #432</title>
+    <author>Alice Johnson</author>
+    <price>27.33</price>
+  </book>
+  <book category="history">
+    <title lang="de">Shadows of the Mind #433</title>
+    <author>Alice Johnson</author>
+    <price>15.63</price>
+  </book>
+  <book category="science">
+    <title lang="it">The Silent Forest #434</title>
+    <author>Alice Johnson</author>
+    <price>32.14</price>
+  </book>
+  <book category="history">
+    <title lang="fr">A Love Beyond Time #435</title>
+    <author>Jane Doe</author>
+    <price>13.92</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Shadows of the Mind #436</title>
+    <author>John Smith</author>
+    <price>31.34</price>
+  </book>
+  <book category="science">
+    <title lang="fr">A Love Beyond Time #437</title>
+    <author>Alice Johnson</author>
+    <price>7.98</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">Shadows of the Mind #438</title>
+    <author>John Smith</author>
+    <price>19.81</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="de">The Silent Forest #439</title>
+    <author>John Smith</author>
+    <price>6.63</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">Whispers of the Past #440</title>
+    <author>Mark Brown</author>
+    <price>20.71</price>
+  </book>
+  <book category="science">
+    <title lang="es">A Love Beyond Time #441</title>
+    <author>Jane Doe</author>
+    <price>28.31</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">The Silent Forest #442</title>
+    <author>Alice Johnson</author>
+    <price>19.53</price>
+  </book>
+  <book category="science">
+    <title lang="it">A Love Beyond Time #443</title>
+    <author>Emily Davis</author>
+    <price>12.47</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">The Silent Forest #444</title>
+    <author>Alice Johnson</author>
+    <price>40.38</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="de">Dreams of Tomorrow #445</title>
+    <author>Alice Johnson</author>
+    <price>39.83</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">Dreams of Tomorrow #446</title>
+    <author>Jane Doe</author>
+    <price>43.33</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">Whispers of the Past #447</title>
+    <author>Alice Johnson</author>
+    <price>20.99</price>
+  </book>
+  <book category="history">
+    <title lang="fr">Whispers of the Past #448</title>
+    <author>Emily Davis</author>
+    <price>38.39</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">The Silent Forest #449</title>
+    <author>John Smith</author>
+    <price>8.74</price>
+  </book>
+  <book category="science">
+    <title lang="en">Whispers of the Past #450</title>
+    <author>Mark Brown</author>
+    <price>24.65</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">A Love Beyond Time #451</title>
+    <author>Mark Brown</author>
+    <price>44.58</price>
+  </book>
+  <book category="history">
+    <title lang="fr">Whispers of the Past #452</title>
+    <author>Jane Doe</author>
+    <price>45.89</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">A Love Beyond Time #453</title>
+    <author>Mark Brown</author>
+    <price>30.33</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">The Silent Forest #454</title>
+    <author>Mark Brown</author>
+    <price>13.66</price>
+  </book>
+  <book category="history">
+    <title lang="de">The Silent Forest #455</title>
+    <author>Alice Johnson</author>
+    <price>39.82</price>
+  </book>
+  <book category="science">
+    <title lang="de">Dreams of Tomorrow #456</title>
+    <author>John Smith</author>
+    <price>26.47</price>
+  </book>
+  <book category="history">
+    <title lang="de">Whispers of the Past #457</title>
+    <author>John Smith</author>
+    <price>44.55</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">A Love Beyond Time #458</title>
+    <author>Mark Brown</author>
+    <price>47.63</price>
+  </book>
+  <book category="science">
+    <title lang="fr">A Love Beyond Time #459</title>
+    <author>Emily Davis</author>
+    <price>31.84</price>
+  </book>
+  <book category="history">
+    <title lang="en">Whispers of the Past #460</title>
+    <author>John Smith</author>
+    <price>16.08</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">Whispers of the Past #461</title>
+    <author>Jane Doe</author>
+    <price>5.92</price>
+  </book>
+  <book category="history">
+    <title lang="de">Whispers of the Past #462</title>
+    <author>Mark Brown</author>
+    <price>28.35</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">The Silent Forest #463</title>
+    <author>Emily Davis</author>
+    <price>30.80</price>
+  </book>
+  <book category="history">
+    <title lang="fr">Whispers of the Past #464</title>
+    <author>Mark Brown</author>
+    <price>9.87</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">Dreams of Tomorrow #465</title>
+    <author>Jane Doe</author>
+    <price>10.49</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Shadows of the Mind #466</title>
+    <author>Alice Johnson</author>
+    <price>34.79</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">Whispers of the Past #467</title>
+    <author>Mark Brown</author>
+    <price>22.39</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">A Love Beyond Time #468</title>
+    <author>Emily Davis</author>
+    <price>16.74</price>
+  </book>
+  <book category="fantasy">
+    <title lang="de">Shadows of the Mind #469</title>
+    <author>Alice Johnson</author>
+    <price>40.50</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">Dreams of Tomorrow #470</title>
+    <author>Emily Davis</author>
+    <price>48.30</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Dreams of Tomorrow #471</title>
+    <author>Mark Brown</author>
+    <price>13.52</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">A Love Beyond Time #472</title>
+    <author>Alice Johnson</author>
+    <price>34.11</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">Dreams of Tomorrow #473</title>
+    <author>John Smith</author>
+    <price>14.00</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">Whispers of the Past #474</title>
+    <author>Jane Doe</author>
+    <price>42.15</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">Whispers of the Past #475</title>
+    <author>Jane Doe</author>
+    <price>39.75</price>
+  </book>
+  <book category="science">
+    <title lang="es">The Silent Forest #476</title>
+    <author>Mark Brown</author>
+    <price>26.15</price>
+  </book>
+  <book category="fantasy">
+    <title lang="it">A Love Beyond Time #477</title>
+    <author>Mark Brown</author>
+    <price>44.32</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">Shadows of the Mind #478</title>
+    <author>Jane Doe</author>
+    <price>22.11</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">Shadows of the Mind #479</title>
+    <author>Emily Davis</author>
+    <price>28.90</price>
+  </book>
+  <book category="fiction">
+    <title lang="fr">Whispers of the Past #480</title>
+    <author>Emily Davis</author>
+    <price>7.41</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">Dreams of Tomorrow #481</title>
+    <author>Emily Davis</author>
+    <price>12.58</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">The Silent Forest #482</title>
+    <author>Emily Davis</author>
+    <price>32.19</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">Shadows of the Mind #483</title>
+    <author>Mark Brown</author>
+    <price>42.70</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">The Silent Forest #484</title>
+    <author>Mark Brown</author>
+    <price>7.71</price>
+  </book>
+  <book category="fiction">
+    <title lang="de">Shadows of the Mind #485</title>
+    <author>Alice Johnson</author>
+    <price>15.78</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">Shadows of the Mind #486</title>
+    <author>Alice Johnson</author>
+    <price>41.94</price>
+  </book>
+  <book category="history">
+    <title lang="en">Dreams of Tomorrow #487</title>
+    <author>Jane Doe</author>
+    <price>28.09</price>
+  </book>
+  <book category="science">
+    <title lang="it">Shadows of the Mind #488</title>
+    <author>Jane Doe</author>
+    <price>15.23</price>
+  </book>
+  <book category="science">
+    <title lang="fr">Whispers of the Past #489</title>
+    <author>Emily Davis</author>
+    <price>20.14</price>
+  </book>
+  <book category="history">
+    <title lang="es">A Love Beyond Time #490</title>
+    <author>John Smith</author>
+    <price>26.84</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="it">Dreams of Tomorrow #491</title>
+    <author>Mark Brown</author>
+    <price>46.34</price>
+  </book>
+  <book category="fantasy">
+    <title lang="fr">Shadows of the Mind #492</title>
+    <author>Alice Johnson</author>
+    <price>24.45</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">A Love Beyond Time #493</title>
+    <author>Jane Doe</author>
+    <price>49.48</price>
+  </book>
+  <book category="fantasy">
+    <title lang="en">A Love Beyond Time #494</title>
+    <author>Mark Brown</author>
+    <price>8.05</price>
+  </book>
+  <book category="fiction">
+    <title lang="en">A Love Beyond Time #495</title>
+    <author>Emily Davis</author>
+    <price>14.48</price>
+  </book>
+  <book category="fiction">
+    <title lang="es">A Love Beyond Time #496</title>
+    <author>John Smith</author>
+    <price>23.60</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="es">Whispers of the Past #497</title>
+    <author>Emily Davis</author>
+    <price>42.92</price>
+  </book>
+  <book category="fantasy">
+    <title lang="es">Shadows of the Mind #498</title>
+    <author>Jane Doe</author>
+    <price>35.11</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">The Silent Forest #499</title>
+    <author>Alice Johnson</author>
+    <price>9.45</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="fr">The Silent Forest #500</title>
+    <author>John Smith</author>
+    <price>5.21</price>
+  </book>
+</bookstore>
